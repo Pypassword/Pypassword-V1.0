@@ -27,4 +27,4 @@ You will need **Python** installed on your computer. If you don't have it yet, y
 ### Installation & Execution
 1. Clone this repository to your local machine:
 ```bash
-   git clone [https://github.com/Pypassword/pypassword.git](https://github.com/Pypassword/pypassword.git)
+   git clone [https://github.com/Pypassword/Pypassword-V1.0.git](https://github.com/Pypassword/Pypassword-V1.0.git)
